@@ -5,6 +5,13 @@
 该软件使用AI智能算法，先分析视频内容特征，再使用云端AI大模型进行判断，能够准确地评估出视频的原创度。
 
 
+## 下载地址
+
+链接: https://pan.baidu.com/s/1DSmsI3l0i9-ilsqgMsxC5w?pwd=6666 
+
+提取码: 6666
+
+
 
 ## 使用说明
 
@@ -43,14 +50,6 @@
 ![kaishi](imgs/sim-key-1.jpg)
 
 ![kaishi](imgs/sim-key-2.jpg)
-
-
-
-## 下载地址
-
-链接: https://pan.baidu.com/s/1DSmsI3l0i9-ilsqgMsxC5w?pwd=6666 
-
-提取码: 6666
 
 
 
